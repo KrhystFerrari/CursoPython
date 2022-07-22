@@ -1,4 +1,4 @@
-# Aula13 - O comando 'print'.
+# Aula03 - O comando 'print'.
 
 '''
 Exercicio: usar os comandos 'sep' e 'end' para formatar um número de CPF.
