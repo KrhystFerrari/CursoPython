@@ -1,3 +1,5 @@
+# Aula02 - Comentários em Python
+
 """
 Aula sobre comentários em Python
 obs: ''' Também funciona como comentário, mas na verdade é usado na construção

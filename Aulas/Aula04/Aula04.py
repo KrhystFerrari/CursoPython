@@ -1,4 +1,4 @@
-# Aula 14 - O 'string' e 'aspas' em Python.
+# Aula 04 - O 'string' e 'aspas' em Python.
 
 '''
 str - string
