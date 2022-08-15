@@ -3,8 +3,8 @@
 '''
 While / Else
 
-- Contadores: garante que o laço de repetição tenha fim.
-- Acumuladores: garante que varias variáveis sejam usadas no mesmo laço.
+- Contadores: garantem que o laço de repetição tenha fim.
+- Acumuladores: garantem que varias variáveis sejam usadas no mesmo laço.
 '''
 
 contador = 1
